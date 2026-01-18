@@ -1,0 +1,10 @@
+{
+  "name": "com.cfyzxiii.matchgrid",
+  "version": "0.1.0",
+  "displayName": "Match grid generator",
+  "description": "Match grid generator",
+  "unity": "2021.3",
+  "author": {
+    "name": "CFYZXIII"
+  }
+}
