@@ -6,6 +6,9 @@ namespace CFYZXIII.Match3.Grid
     {
         public virtual void TestMethod()
         { }
+
+        public virtual void TestMethod22()
+        { }
     }
 }
 
